@@ -2,7 +2,7 @@
 
 Submitted by: Hector Baeza
 
-Tumblr Demo is an app that displays a feed of articles which then open up to a new 
+Tumblr Demo is an app that displays a feed of articles which then open up to a new page with an image and a short story.
 
 Time spent: **4** hours spent in total
 
